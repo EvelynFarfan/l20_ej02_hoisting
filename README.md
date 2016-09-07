@@ -24,7 +24,7 @@ var feature = 'closures';
 ```
 
 Para la solución lo que realizo fue dejar a la variable global como unica variable y esta el tener un tipo de dato string
-la primara condición no se cumple, entonces se ejecuta la segunsa sentencia. 
+la primara condición no se cumple, entonces se ejecuta la segunda sentencia. 
 La funcion toma el valor de la varible global "Closures".
 
 ```javascript
